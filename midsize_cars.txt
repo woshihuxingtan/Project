@@ -13,3 +13,7 @@ Mazda Mazda6 2014
 Hyundai Sonata-Hybrid 2014
 Chevrolet Malibu 2014
 Dodge Avenger 2014
+Chrysler 200 2014
+Ford Fusion-Energi 2014
+Kia Optima-Hybrid 2014
+Toyota Prius-Plug-In 2014
